@@ -17,12 +17,16 @@
 
 ## 耻辱柱
 
-QQ: 513013386 
+QQ: 513013386  
 评价：你认为你把描述改成您的宣传QQ就成您制作的点位了吗，搬运我们不介意，但请注明来源。
 
 <br>
 
-为了防止这些行为，我们将 AokManger 的最新版本放在 "HT 内部群" 和 "AokManger 编写组"，供点位贡献者和代肝使用，如果发现点位外漏行为，则剔除泄露者。
+<strong>为了防止这些行为，我们将 AokManger 的最新版本放在 "HT 内部群" 和 "AokManger 编写组"，</strong>  
+<strong>供点位贡献者和代肝使用，如果发现点位外漏行为，则剔除泄露者。</strong>
+
+<br>
+
 ## BUG 汇报
 
 [**New Issue**](https://github.com/Xrhhhilo/AokManger/issues/new) 点击此处，提交你的问题。
@@ -30,4 +34,4 @@ QQ: 513013386
 <br>
 
 ## [【QQ群 641596647】](https://hacktools.store/qqgroup)
-![Alt](https://repobeats.axiom.co/api/embed/973e91abd70379bad4ef4857782026c6841bd27e.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/92453ea2e7d1e4a43c6b5f45a151ce87ce0db261.svg "Repobeats analytics image")
