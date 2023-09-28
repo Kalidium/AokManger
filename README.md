@@ -12,6 +12,8 @@
 
 <br>
 <strong>AokManger 是 AokManger 编写组成员共同制作的点位工具，并附带自己录制的最新点位。</strong><br>
+<br>
+![Alt](./img/AokManger.png)
 
 </div>
 
@@ -24,8 +26,6 @@ QQ: 513013386
 
 <strong>为了防止这些行为，我们将 AokManger 的最新版本放在 "HT 内部群" 和 "AokManger 编写组"，</strong>  
 <strong>供点位贡献者和代肝使用，如果发现点位外漏行为，则剔除泄露者。</strong>
-
-<br>
 
 ## BUG 汇报
 
