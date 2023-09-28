@@ -12,8 +12,6 @@
 
 <br>
 <strong>AokManger 是 AokManger 编写组成员共同制作的点位工具，并附带自己录制的最新点位。</strong><br>
-<br>
-![AokManger](https://github.com/Xrhhhilo/AokManger/blob/main/img/AokManger.png)
 
 </div>
 
