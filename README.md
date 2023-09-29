@@ -9,11 +9,15 @@
 ## 概述
 
 <div align="center">
-
 <br>
 <strong>AokManger 是 AokManger 编写组成员共同制作的点位工具，并附带自己录制的最新点位。</strong><br>
-
 </div>
+
+<br>
+![Alt](https://repobeats.axiom.co/api/embed/92453ea2e7d1e4a43c6b5f45a151ce87ce0db261.svg "Repobeats analytics image")
+
+## [【QQ群 641596647】](https://hacktools.store/qqgroup)
+[**New Issue**](https://github.com/Xrhhhilo/AokManger/issues/new) 点击此处，提交你的问题。
 
 ## 耻辱柱
 
@@ -24,12 +28,3 @@ QQ: 513013386
 
 <strong>为了防止这些行为，我们将 AokManger 的最新版本放在 "HT 内部群" 和 "AokManger 编写组"，</strong>  
 <strong>供点位贡献者和代肝使用，如果发现点位外漏行为，则剔除泄露者。</strong>
-
-## BUG 汇报
-
-[**New Issue**](https://github.com/Xrhhhilo/AokManger/issues/new) 点击此处，提交你的问题。
-
-<br>
-
-## [【QQ群 641596647】](https://hacktools.store/qqgroup)
-![Alt](https://repobeats.axiom.co/api/embed/92453ea2e7d1e4a43c6b5f45a151ce87ce0db261.svg "Repobeats analytics image")
