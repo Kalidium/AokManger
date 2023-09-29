@@ -20,10 +20,12 @@
 ## [【QQ群 641596647】](https://hacktools.store/qqgroup)
 [**New Issue**](https://github.com/Xrhhhilo/AokManger/issues/new) 点击此处，提交你的问题。
 
+<br>
+
 ## 耻辱柱
 
-QQ: 513013386  
-评价：你认为你把描述改成您的宣传QQ就成您制作的点位了吗，搬运我们不介意，但请注明来源。
+<strong>QQ: 513013386  </strong>  
+<strong>评价：你认为你把描述改成您的宣传QQ就成您制作的点位了吗，搬运我们不介意，但请注明来源。</strong>  
 
 <br>
 
