@@ -15,7 +15,7 @@
 
 <br>
 
-![Alt](https://repobeats.axiom.co/api/embed/92453ea2e7d1e4a43c6b5f45a151ce87ce0db261.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/0be608f3cda562cfd850b0f57cb33a3bd75a330a.svg "Repobeats analytics image")
 
 ## [【QQ群 641596647】](https://hacktools.store/qqgroup)
 [**New Issue**](https://github.com/Xrhhhilo/AokManger/issues/new) 点击此处，提交你的问题。
